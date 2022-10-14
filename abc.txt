@@ -1,19 +1,7 @@
-mounika devi
-Chinnu
-jgdt
-jgdfhy
-jbdfuh
-jhgrjfj
-kjbddufh
-nhmnrh
-jhnrgh
-jfgiuh
-kfghk
-jhdrgk
-gkjjndfg
-hrufui
-hgjrui
-jhrrfhu
-mbdfh
-khrerh
-Devi
+echo "# Sample" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/tatipudi/Sample.git
+git push -u origin main
